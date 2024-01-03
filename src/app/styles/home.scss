@@ -1,0 +1,121 @@
+.section{
+    margin: 4rem 4rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+h2{
+    font-size: xx-large;
+    font-weight: 500;
+}
+.services{
+    display: flex;
+    font-size: x-large;
+    margin: 1.2rem 0;
+}
+.button{
+    display: flex;
+    background-color: #6466ED;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+}
+.button:hover{
+    background-color: #231249;
+
+}
+.arrow{
+    font-size: x-large;
+}
+.secondCol{
+    display: flex;
+    align-items: center;
+}
+.homeprofile{
+    height: 30rem;
+    width: auto;
+    border-radius: 10px;
+}
+@media screen and (max-width: 1177px) {
+    .section{
+        margin: 4rem 4rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .firstCol{
+        margin-bottom: 5rem;
+    }
+}
+@media screen and (max-width: 1177px){
+    .section{
+        margin: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width: 800px){
+    .section{
+        margin: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .homeprofile{
+        height: 25rem;
+        width: auto;
+        border-radius: 10px;
+    }
+}
+@media screen and (max-width: 670px){
+    .section{
+        margin: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .homeprofile{
+        height: 20rem;
+        width: auto;
+        border-radius: 10px;
+    }
+}
+@media screen and (max-width: 546px){
+    .section{
+        margin: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .homeprofile{
+        height: 15rem;
+        width: auto;
+        border-radius: 10px;
+    }
+}
+@media screen and (max-width: 430px){
+    .section{
+        margin: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .homeprofile{
+        height: 12rem;
+        width: auto;
+        border-radius: 10px;
+    }
+}
