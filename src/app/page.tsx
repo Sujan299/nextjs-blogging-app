@@ -18,7 +18,7 @@ export default function Home() {
           </Link>
         </div>
         <div className="secondCol">
-          <Image src={HomeProfile} className='homeprofile' />
+          <Image src={HomeProfile} className='homeprofile' alt='' />
         </div>
       </div>
     </div>

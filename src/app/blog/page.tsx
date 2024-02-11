@@ -8,7 +8,7 @@ export default function Blog() {
         <div className="pt-24 blogcollection">
             <div className='blogitems'>
                 <Link href='/blog/firstblog/'>
-                    <Image src={firstArticle} className='blogthumbnail' />
+                    <Image src={firstArticle} className='blogthumbnail' alt='' />
                     <h1>Top 10 web hosting providers !</h1>
                 </Link>
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
@@ -16,7 +16,7 @@ export default function Blog() {
             </div>
             <div className='blogitems'>
                 <Link href='/blog/firstblog/'>
-                    <Image src={firstArticle} className='blogthumbnail' />
+                    <Image src={firstArticle} className='blogthumbnail' alt=''/>
                     <h1>Top 10 web hosting providers !</h1>
                 </Link>
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
@@ -24,7 +24,7 @@ export default function Blog() {
             </div>
             <div className='blogitems'>
                 <Link href='/blog/firstblog/'>
-                    <Image src={firstArticle} className='blogthumbnail' />
+                    <Image src={firstArticle} className='blogthumbnail' alt=''/>
                     <h1>Top 10 web hosting providers !</h1>
                 </Link>
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
@@ -32,7 +32,7 @@ export default function Blog() {
             </div>
             <div className='blogitems'>
                 <Link href='/blog/firstblog/'>
-                    <Image src={firstArticle} className='blogthumbnail' />
+                    <Image src={firstArticle} className='blogthumbnail' alt=''/>
                     <h1>Top 10 web hosting providers !</h1>
                 </Link>
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
@@ -40,7 +40,7 @@ export default function Blog() {
             </div>
             <div className='blogitems'>
                 <Link href='/blog/firstblog/'>
-                    <Image src={firstArticle} className='blogthumbnail' />
+                    <Image src={firstArticle} className='blogthumbnail' alt=''/>
                     <h1>Top 10 web hosting providers !</h1>
                 </Link>
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
@@ -48,7 +48,7 @@ export default function Blog() {
             </div>
             <div className='blogitems'>
                 <Link href='/blog/firstblog/'>
-                    <Image src={firstArticle} className='blogthumbnail' />
+                    <Image src={firstArticle} className='blogthumbnail' alt=''/>
                     <h1>Top 10 web hosting providers !</h1>
                 </Link>
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
@@ -56,7 +56,7 @@ export default function Blog() {
             </div>
             <div className='blogitems'>
                 <Link href='/blog/firstblog/'>
-                    <Image src={firstArticle} className='blogthumbnail' />
+                    <Image src={firstArticle} className='blogthumbnail' alt=''/>
                     <h1>Top 10 web hosting providers !</h1>
                 </Link>
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
@@ -64,7 +64,7 @@ export default function Blog() {
             </div>
             <div className='blogitems'>
                 <Link href='/blog/firstblog/'>
-                    <Image src={firstArticle} className='blogthumbnail' />
+                    <Image src={firstArticle} className='blogthumbnail' alt=''/>
                     <h1>Top 10 web hosting providers !</h1>
                 </Link>
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>

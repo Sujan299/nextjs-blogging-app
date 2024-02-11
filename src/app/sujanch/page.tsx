@@ -12,7 +12,7 @@ export default function Home() {
       </div>
       <div className="my mt-36">
         <div className="myFace">
-          <Image src={Profile} />
+          <Image src={Profile} alt=''/>
         </div>
       </div>
     </div>
