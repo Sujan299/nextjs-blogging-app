@@ -14,6 +14,62 @@ export default function Blog() {
                 <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
                 <p>Updated on:<span className='font-bold'>2023/12/30</span></p>
             </div>
+            <div className='blogitems'>
+                <Link href='/blog/firstblog/'>
+                    <Image src={firstArticle} className='blogthumbnail' />
+                    <h1>Top 10 web hosting providers !</h1>
+                </Link>
+                <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
+                <p>Updated on:<span className='font-bold'>2023/12/30</span></p>
+            </div>
+            <div className='blogitems'>
+                <Link href='/blog/firstblog/'>
+                    <Image src={firstArticle} className='blogthumbnail' />
+                    <h1>Top 10 web hosting providers !</h1>
+                </Link>
+                <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
+                <p>Updated on:<span className='font-bold'>2023/12/30</span></p>
+            </div>
+            <div className='blogitems'>
+                <Link href='/blog/firstblog/'>
+                    <Image src={firstArticle} className='blogthumbnail' />
+                    <h1>Top 10 web hosting providers !</h1>
+                </Link>
+                <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
+                <p>Updated on:<span className='font-bold'>2023/12/30</span></p>
+            </div>
+            <div className='blogitems'>
+                <Link href='/blog/firstblog/'>
+                    <Image src={firstArticle} className='blogthumbnail' />
+                    <h1>Top 10 web hosting providers !</h1>
+                </Link>
+                <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
+                <p>Updated on:<span className='font-bold'>2023/12/30</span></p>
+            </div>
+            <div className='blogitems'>
+                <Link href='/blog/firstblog/'>
+                    <Image src={firstArticle} className='blogthumbnail' />
+                    <h1>Top 10 web hosting providers !</h1>
+                </Link>
+                <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
+                <p>Updated on:<span className='font-bold'>2023/12/30</span></p>
+            </div>
+            <div className='blogitems'>
+                <Link href='/blog/firstblog/'>
+                    <Image src={firstArticle} className='blogthumbnail' />
+                    <h1>Top 10 web hosting providers !</h1>
+                </Link>
+                <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
+                <p>Updated on:<span className='font-bold'>2023/12/30</span></p>
+            </div>
+            <div className='blogitems'>
+                <Link href='/blog/firstblog/'>
+                    <Image src={firstArticle} className='blogthumbnail' />
+                    <h1>Top 10 web hosting providers !</h1>
+                </Link>
+                <p>written by <span className='font-bold'><Link href='/sujanch'>Sujan Chaudhary</Link></span></p>
+                <p>Updated on:<span className='font-bold'>2023/12/30</span></p>
+            </div>
         </div>
     )
 }
